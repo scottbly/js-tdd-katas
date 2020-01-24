@@ -1,4 +1,4 @@
-const Calc = require('../src/calc');
+const Calc = require('../../src/stringcalculator/calc');
 var assert = require('assert');
 
 describe('String calculator', () => {

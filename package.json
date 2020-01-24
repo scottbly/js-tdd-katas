@@ -2,7 +2,7 @@
   "name": "jskata",
   "version": "1.0.0",
   "description": "",
-  "main": "test/calc.spec.js",
+  "main": "test/stringcalculator/calc.spec.js",
   "scripts": {
     "test": "mocha"
   },
